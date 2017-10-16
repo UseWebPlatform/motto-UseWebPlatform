@@ -6,6 +6,10 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
+## 0. Drop any frameworks
+
+Drop any frameworks (Angular, jQuery, React, Vue, etc.) for their bad performance, check out the [HNPWA](https://hnpwa.com) apps.
+
 ## 1. Web Components
 
 [Web Components](https://www.webcomponents.org/introduction) are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
@@ -76,7 +80,7 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 
 Budget for TTI on mobile 3G networks is only ~ **50 KB** per route :exclamation:
 
-Drop any frameworks:
+**Drop any frameworks:**
 
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 - [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
@@ -84,15 +88,16 @@ Drop any frameworks:
 
 Polymer 2.0 library has around 12 KB, so about 38 KB left for your budget. :tada:
 
-### Servers
+### PRPL Servers
 
 - [prpl-server-node](https://github.com/Polymer/prpl-server-node)
 - [prpl-server-go](https://github.com/CaptainCodeman/prpl-server-go)
 
-#### SEO & Open Graph
+#### Features
 
-- [Rendering for Bots](https://github.com/Polymer/prpl-server-node#rendering-for-bots)
-- [Proxy bots to SSR service for SEO, Open Graph, etc.](https://github.com/Polymer/prpl-server-node/issues/31)
+- [Differential Serving](https://github.com/Polymer/prpl-server-node#differential-serving)
+- [HTTP/2 Server Push](https://github.com/Polymer/prpl-server-node#http2-server-push)
+- [Rendering for Bots (SEO, Open Graph)](https://github.com/Polymer/prpl-server-node#rendering-for-bots)
 
 ## 9. RAIL Performance Model
 
@@ -105,15 +110,15 @@ Polymer 2.0 library has around 12 KB, so about 38 KB left for your budget. :tada
 
 ## 10. Polymer Project
 
-Unlock the Power of Web Components. [Polymer](https://www.polymer-project.org) is a JavaScript library that helps you create custom reusable HTML elements, and use them to build performant, maintainable apps.
+Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-project.org) is a JavaScript library that helps you create custom **reusable** HTML elements, and use them to build **performant**, **maintainable** apps.
 
 - [Polymer library](https://www.polymer-project.org/2.0/docs/devguide/feature-overview)
 - [Polymer App Toolbox](https://www.polymer-project.org/2.0/toolbox/)
 - [Polymer CLI](https://www.polymer-project.org/2.0/docs/tools/polymer-cli)
 - [Polymer CLI Commands](https://www.polymer-project.org/2.0/docs/tools/polymer-cli-commands)
 - [Polymer IDE plugins](https://github.com/StartPolymer/awesome-polymer#editor-plugins)
-
-Check out Polymer performance at [HNPWA](https://hnpwa.com).
+- [Polymer 2.x uses ES6 and compilation to ES5](https://www.polymer-project.org/2.0/docs/es6)
+- [Polymer 3.0 preview uses npm and ES6 Modules](https://www.polymer-project.org/blog/2017-08-23-hands-on-30-preview.html)
 
 We have a collection of [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer) resources.
 
