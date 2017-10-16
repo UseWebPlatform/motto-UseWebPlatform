@@ -25,7 +25,7 @@ CSR (Client Side Rendering) in combination with [HTTP/2](https://developers.goog
 
 CSR in this combination with PRPL Pattern has same performance as SSR (Server Side Rendering). Follow [JAMstack](https://jamstack.org).
 
-Polymer 3.0 using [JavaScript modules via script tag](https://caniuse.com/#feat=es6-module), read more info at [MDN import](https://developer.mozilla.org/cs/docs/Web/JavaScript/Reference/Statements/import).
+Polymer 3.0 library using [JavaScript modules via script tag](https://caniuse.com/#feat=es6-module), read more info at [MDN import](https://developer.mozilla.org/cs/docs/Web/JavaScript/Reference/Statements/import). :tada:
 
 ## 3. Service Workers
 
@@ -74,7 +74,7 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 
 [Measure **Time to Interactive**](https://youtu.be/0A-2BhEZiM4?t=9m20s)
 
-Budget for TTI on mobile 3G networks is only ~ **50 KB** per route!
+Budget for TTI on mobile 3G networks is only ~ **50 KB** per route :exclamation:
 
 Drop any frameworks:
 
@@ -117,7 +117,7 @@ Check out Polymer performance at [HNPWA](https://hnpwa.com).
 
 We have a collection of [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer) resources.
 
-Try [Polymer Playground](https://github.com/StartPolymer/playground)
+Try [Polymer Playground](https://github.com/StartPolymer/playground) :eyes:
 
 ---
 
