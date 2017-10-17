@@ -8,7 +8,11 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 
 ## 0. Drop any frameworks
 
-Drop any frameworks (Angular, jQuery, React, Vue, etc.) for their bad performance, check out the [HNPWA](https://hnpwa.com) apps.
+Drop any frameworks (Angular, jQuery, React, Vue, Bootstrap, etc.) for their bad performance and maintainability, check out the [HNPWA](https://hnpwa.com) apps.
+
+- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+- [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
+- [JavaScript back to basics: You might not need React or Angular 2](https://react-etc.net/entry/javascript-back-to-basics-you-might-not-need-react-or-angular-2)
 
 ## 1. Web Components
 
@@ -80,13 +84,7 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 
 Budget for TTI on mobile 3G networks is only ~ **50 KB** per route :exclamation:
 
-**Drop any frameworks:**
-
-- [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
-- [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
-- [JavaScript back to basics: You might not need React or Angular 2](https://react-etc.net/entry/javascript-back-to-basics-you-might-not-need-react-or-angular-2)
-
-Polymer 2.0 library has around 12 KB, so about 38 KB left for your budget. :tada:
+**Drop any frameworks**. Polymer 2.0 library has around 12 KB, so about 38 KB left for your budget. :tada:
 
 ### PRPL Servers
 
@@ -119,6 +117,7 @@ Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-proje
 - [Polymer IDE plugins](https://github.com/StartPolymer/awesome-polymer#editor-plugins)
 - [Polymer 2.x uses ES6 and compilation to ES5](https://www.polymer-project.org/2.0/docs/es6)
 - [Polymer 3.0 preview uses npm and ES6 Modules](https://www.polymer-project.org/blog/2017-08-23-hands-on-30-preview.html)
+- [Integration with other frameworks](https://github.com/StartPolymer/awesome-polymer#integration-with-other-frameworks)
 
 We have a collection of [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer) resources.
 
