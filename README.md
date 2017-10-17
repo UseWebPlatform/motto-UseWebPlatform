@@ -59,6 +59,8 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 
 [Introduction to Progressive Web App Architectures](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures-slides)
 
+You Don't Need Apache Cordova, PhoneGap, etc.
+
 ## 6. Web Accessibility
 
 [Web Accessibility](https://www.w3.org/WAI/intro/accessibility.php) means that people with disabilities can use the Web.
