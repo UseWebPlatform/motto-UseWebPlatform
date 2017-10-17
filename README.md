@@ -82,7 +82,7 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 - **Pre-cache** remaining routes.
 - **Lazy-load** and create remaining routes on demand.
 
-CSR (Client Side Rendering) with PRPL Pattern has same performance as SSR (Server Side Rendering). [JAMstack](https://jamstack.org) has similar architecture.
+CSR (Client Side Rendering) with PRPL Pattern has similar performance as SSR (Server Side Rendering). [JAMstack](https://jamstack.org) has similar architecture.
 
 You Don't Need SSR using PHP, React, Vue, etc.
 
