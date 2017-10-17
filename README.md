@@ -20,6 +20,8 @@ Drop any frameworks (Angular, jQuery, React, Vue, Bootstrap, etc.) for their bad
 
 [Web Components](https://developers.google.com/web/fundamentals/web-components/) let us extend the browser’s built-in component model - **the DOM** - rather than bring our own.
 
+[The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
+
 Web components are based on four main specifications:
 
 - **Custom Elements** lays the foundation for designing and using new types of DOM elements.
