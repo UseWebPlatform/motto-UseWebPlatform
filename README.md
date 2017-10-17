@@ -27,23 +27,25 @@ Web components are based on four main specifications:
 - **HTML Template** defines how to declare fragments of markup that go unused at page load, but can be instantiated later on at runtime.
 - **HTML imports** defines the inclusion and reuse of HTML documents in other HTML documents.
 
-## 2. CSR with HTTP/2 + Server Push + HTML Imports / ES6 Modules
+You Don't Need Angular Components, React Components, Vue Components, etc.
 
-CSR (Client Side Rendering) in combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare fine-grained dependencies and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders ([Webpack](https://webpack.js.org), etc.).
+## 2. HTTP/2 + Server Push + HTML Imports / ES6 Modules
 
-CSR in this combination with PRPL Pattern has same performance as SSR (Server Side Rendering). Follow [JAMstack](https://jamstack.org).
+In combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare **fine-grained dependencies** and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders.
+
+You Don't Need Browserify, Rollup, Webpack, etc.
 
 Polymer 3.0 library using [JavaScript modules via script tag](https://caniuse.com/#feat=es6-module), read more info at [MDN import](https://developer.mozilla.org/cs/docs/Web/JavaScript/Reference/Statements/import). :tada:
 
 ## 3. Service Workers
 
-[Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) let us build pure web apps that users can access even when their devices are offline or network conditions are poor, whereas previously we might have had to resort to manually installable native or “hybrid” apps.
+[Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) let us build pure web apps that users can access even when their devices are **offline** or network conditions are poor, whereas previously we might have had to resort to manually installable native or “hybrid” apps.
 
 Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your development by making it easy to take advantage of powerful service worker features, eliminate boilerplate code, and automate service worker generation.
 
 ## 4. Web Workers
 
-[Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) is a simple means for web content to run scripts in background threads. The worker thread can perform tasks without interfering with the user interface.
+[Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) is a simple means for web content to run scripts in **background threads**. The worker thread can perform tasks without interfering with the user interface.
 
 ## 5. Progressive Web Apps
 
@@ -77,6 +79,10 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 - **Render** initial route.
 - **Pre-cache** remaining routes.
 - **Lazy-load** and create remaining routes on demand.
+
+CSR (Client Side Rendering) with PRPL Pattern has same performance as SSR (Server Side Rendering). [JAMstack](https://jamstack.org) has similar architecture.
+
+You Don't Need SSR using PHP, React, Vue, etc.
 
 ### PRPL-50
 
