@@ -29,7 +29,7 @@ Web components are based on four main specifications:
 
 ## 2. CSR with HTTP/2 + Server Push + HTML Imports / ES6 Modules
 
-CSR (Client Side Rendering) in combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare fine-grained dependencies and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders.
+CSR (Client Side Rendering) in combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare fine-grained dependencies and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders ([Webpack](https://webpack.js.org), etc.).
 
 CSR in this combination with PRPL Pattern has same performance as SSR (Server Side Rendering). Follow [JAMstack](https://jamstack.org).
 
