@@ -53,7 +53,7 @@ Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your
 
 ## 5. Progressive Web Apps
 
-[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) are user experiences that have the reach of the web, and are:
+[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/) (PWA) are user experiences that have the reach of the web, and are:
 
 - **Reliable** - Load instantly and never show the downasaur, even in uncertain network conditions.
 - **Fast** - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
