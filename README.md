@@ -6,7 +6,25 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-## 0. Drop any frameworks
+## 1. JavaScript, WebAssembly
+
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB and Adobe Acrobat.
+
+- [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
+- [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
+- [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
+- [JavaScript Performance](https://www.w3schools.com/js/js_performance.asp)
+
+[WebAssembly](http://webassembly.org) or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web.
+
+### Static Types
+
+- [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
+- [Polymer Custom Element Properties](https://www.polymer-project.org/2.0/docs/devguide/properties)
+
+**You Don't Need** Dart, TypeScript, Elm, PureScript, CoffeeScript, ClojureScript, etc.
+
+### Drop any frameworks
 
 Drop any frameworks (Angular, jQuery, React, Vue, Bootstrap, etc.) for their bad performance and maintainability, check out the [HNPWA](https://hnpwa.com) apps.
 
@@ -14,7 +32,7 @@ Drop any frameworks (Angular, jQuery, React, Vue, Bootstrap, etc.) for their bad
 - [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 - [JavaScript back to basics: You might not need React or Angular 2](https://react-etc.net/entry/javascript-back-to-basics-you-might-not-need-react-or-angular-2)
 
-## 1. Web Components
+## 2. Web Components
 
 [Web Components](https://www.webcomponents.org/introduction) are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps.
 
@@ -31,7 +49,7 @@ Web components are based on four main specifications:
 
 **You Don't Need** Angular Components, React Components, Vue Components, etc.
 
-## 2. HTTP/2 + Server Push + HTML Imports / ES6 Modules
+## 3. HTTP/2 + Server Push + HTML Imports / ES6 Modules
 
 In combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare **fine-grained dependencies** and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders.
 
@@ -39,17 +57,15 @@ In combination with [HTTP/2](https://developers.google.com/web/fundamentals/perf
 
 Polymer 3.0 library using [JavaScript modules via script tag](https://caniuse.com/#feat=es6-module), read more info at [MDN import](https://developer.mozilla.org/cs/docs/Web/JavaScript/Reference/Statements/import). :tada:
 
-## 3. Service Workers
+## 4. Service Workers, Web Workers
 
 [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) let us build pure web apps that users can access even when their devices are **offline** or network conditions are poor, whereas previously we might have had to resort to manually installable native or “hybrid” apps.
 
 Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your development by making it easy to take advantage of powerful service worker features, eliminate boilerplate code, and automate service worker generation.
 
-**You Don't Need** manually installable native or “hybrid” apps.
-
-## 4. Web Workers
-
 [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) is a simple means for web content to run scripts in **background threads**. The worker thread can perform tasks without interfering with the user interface.
+
+**You Don't Need** manually installable native or “hybrid” apps.
 
 ## 5. Progressive Web Apps
 
@@ -79,10 +95,11 @@ Push Messages | NO :heavy_minus_sign: | YES :+1: | YES :+1:
 Download to install | NO :+1: | NO :+1: | YES :heavy_minus_sign:
 Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
-Performance | NO :heavy_minus_sign: | YES :+1: | YES :+1:
+Performance | NO :heavy_minus_sign: | YES :+1: (2) | YES :+1:
 Result | 0 | +8 :heart: | +2
 
-(1) Windows Store support PWA
+(1) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices.  
+(2) Performance using RAIL Performance Model, WebAssembly, Web Workers.
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
