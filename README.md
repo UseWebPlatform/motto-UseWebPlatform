@@ -70,16 +70,16 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 
 | | Website | PWA | Native App
 --- | --- | --- | ---
-Offline | NO :-1: | YES :+1: | YES :+1:
-App stores | NO :-1: | NO :-1: | YES :+1:
+Offline | NO :heavy_minus_sign: | YES :+1: | YES :+1:
+App stores | NO :heavy_minus_sign: | NO :heavy_minus_sign: | YES :+1:
 Responsive | YES :+1: | YES :+1: | YES :+1:
-Searchable | YES :+1: | YES :+1: | NO :-1:
-Local Notifications | NO :-1: | YES :+1: | YES :+1:
-Push Messages | NO :-1: | YES :+1: | YES :+1:
-Download to install | NO :+1: | NO :+1: | YES :-1:
-Fast Updates | YES :+1: | YES :+1: | NO :-1:
-Cross-platform | YES :+1: | YES :+1: | NO :-1:
-Performance | NO :-1: | YES :+1: | YES :+1:
+Searchable | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Local Notifications | NO :heavy_minus_sign: | YES :+1: | YES :+1:
+Push Messages | NO :heavy_minus_sign: | YES :+1: | YES :+1:
+Download to install | NO :+1: | NO :+1: | YES :heavy_minus_sign:
+Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Performance | NO :heavy_minus_sign: | YES :+1: | YES :+1:
 Result | 0 | +8 :heart: | +2
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
