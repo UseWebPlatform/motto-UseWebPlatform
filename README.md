@@ -29,13 +29,13 @@ Web components are based on four main specifications:
 - **HTML Template** defines how to declare fragments of markup that go unused at page load, but can be instantiated later on at runtime.
 - **HTML imports** defines the inclusion and reuse of HTML documents in other HTML documents.
 
-You Don't Need Angular Components, React Components, Vue Components, etc.
+**You Don't Need** Angular Components, React Components, Vue Components, etc.
 
 ## 2. HTTP/2 + Server Push + HTML Imports / ES6 Modules
 
 In combination with [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) and [Server Push](https://developers.google.com/web/fundamentals/performance/http2/#server_push), standard module formats like [HTML Imports](https://w3c.github.io/webcomponents/spec/imports/) and [ES6 Modules](http://exploringjs.com/es6/ch_modules.html) let us declare **fine-grained dependencies** and efficiently deliver them to the client in optimally cacheable form, without relying on complicated packaging tools and loaders.
 
-You Don't Need Browserify, Rollup, Webpack, etc.
+**You Don't Need** Browserify, Rollup, Webpack, etc.
 
 Polymer 3.0 library using [JavaScript modules via script tag](https://caniuse.com/#feat=es6-module), read more info at [MDN import](https://developer.mozilla.org/cs/docs/Web/JavaScript/Reference/Statements/import). :tada:
 
@@ -44,6 +44,8 @@ Polymer 3.0 library using [JavaScript modules via script tag](https://caniuse.co
 [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) let us build pure web apps that users can access even when their devices are **offline** or network conditions are poor, whereas previously we might have had to resort to manually installable native or “hybrid” apps.
 
 Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your development by making it easy to take advantage of powerful service worker features, eliminate boilerplate code, and automate service worker generation.
+
+**You Don't Need** manually installable native or “hybrid” apps.
 
 ## 4. Web Workers
 
@@ -57,11 +59,11 @@ Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your
 - **Fast** - Respond quickly to user interactions with silky smooth animations and no janky scrolling.
 - **Engaging** - Feel like a natural app on the device, with an immersive user experience.
 
-This new level of quality allows Progressive Web Apps to earn a place on the user's home screen.
+This new level of quality allows Progressive Web Apps to earn a place on the user's **home screen**.
 
 [Introduction to Progressive Web App Architectures](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures-slides)
 
-You Don't Need Apache Cordova, PhoneGap, etc.
+**You Don't Need** Apache Cordova, PhoneGap, etc.
 
 ## 6. Web Accessibility
 
@@ -84,9 +86,10 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 - **Pre-cache** remaining routes.
 - **Lazy-load** and create remaining routes on demand.
 
-CSR (Client Side Rendering) with PRPL Pattern has similar performance as SSR (Server Side Rendering). [JAMstack](https://jamstack.org) has similar architecture.
+CSR (Client Side Rendering) with PRPL Pattern has similar performance as SSR (Server Side Rendering).  
+[JAMstack](https://jamstack.org) has similar architecture.
 
-You Don't Need SSR using PHP, React, Vue, etc.
+**You Don't Need** SSR using PHP, React, Vue, etc.
 
 ### PRPL-50
 
