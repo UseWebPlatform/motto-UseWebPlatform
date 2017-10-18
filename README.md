@@ -67,16 +67,19 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 - [How to Save PWA to iOS Homescreen](https://vimeo.com/236430523)
 - [WHY You Should Build A Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
 
-| | Website | Progressive Web App | Mobile Application
+| | Website | PWA | Native App
 --- | --- | --- | ---
-Offline | NO | YES | YES
-App stores | NO | NO | YES
-Responsive | YES | YES | YES
-Searchable | YES | YES | NO
-Local Notifications | NO | YES | YES
-Push Messages | NO | YES | YES
-Download to install | NO | NO | YES
-Fast Updates | YES | YES | NO
+Offline | NO :-1: | YES :+1: | YES :+1:
+App stores | NO :-1: | NO :-1: | YES :+1:
+Responsive | YES :+1: | YES :+1: | YES :+1:
+Searchable | YES :+1: | YES :+1: | NO :-1:
+Local Notifications | NO :-1: | YES :+1: | YES :+1:
+Push Messages | NO :-1: | YES :+1: | YES :+1:
+Download to install | NO :+1: | NO :+1: | YES :-1:
+Fast Updates | YES :+1: | YES :+1: | NO :-1:
+Cross-platform | YES :+1: | YES :+1: | NO :-1:
+Performance | NO :-1: | YES :+1: | YES :+1:
+Result | 0 | +8 :heart: | +2
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
