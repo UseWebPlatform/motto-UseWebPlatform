@@ -122,12 +122,13 @@ Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Performance | NO :heavy_minus_sign: | YES :+1: (3) | YES :+1:
 Lower dev time and cost | YES :+1: | YES :+1: | NO :heavy_minus_sign:
-Lower user acquisition cost | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Lower user acquisition cost | YES :+1: | YES :+1: (4) | NO :heavy_minus_sign:
 **Result** | +2 | +10 :heart: | 0
 
 (1) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices. :+1:  
 (2) Updates don’t have to run through an app store. :+1:  
-(3) Performance using RAIL Performance Model, WebAssembly, Web Workers.
+(3) Performance using RAIL Performance Model, WebAssembly, Web Workers.  
+(4) [Progressive Web Apps vs Native: Which Is Better for Your Business?](https://www.technology.org/2017/07/28/progressive-web-apps-vs-native-which-is-better-for-your-business/)
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
@@ -204,6 +205,10 @@ Try [Polymer Playground](https://github.com/StartPolymer/playground) :eyes:
 
 ---
 
-## License
+> Do you like it? Please, star the motto :star:
+
+---
+
+### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
