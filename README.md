@@ -6,7 +6,26 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-## 1. JavaScript, WebAssembly
+## 1. CSS, HTML, JavaScript, WebAssembly
+
+### CSS
+
+- [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
+- [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
+- [What is the difference between CSS variables and preprocessor variables?](https://css-tricks.com/difference-between-types-of-css-variables/)
+- [Polymer custom CSS properties](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties)
+- [Polymer custom CSS mixins](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties#use-custom-css-mixins)
+
+**You Don't Need** SASS, LESS, Stylus, etc.
+
+### HTML
+
+- [HTML <template> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [HTML templates, via JavaScript template literals](https://github.com/PolymerLabs/lit-html)
+
+**You Don't Need** HAML, Pug, etc.
+
+### JavaScript
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB and Adobe Acrobat.
 
@@ -15,22 +34,28 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
 - [JavaScript Performance](https://www.w3schools.com/js/js_performance.asp)
 
-[WebAssembly](http://webassembly.org) or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web.
-
-### Static Types
+#### Static Types
 
 - [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
 - [Polymer Custom Element Properties](https://www.polymer-project.org/2.0/docs/devguide/properties)
 
 **You Don't Need** Dart, TypeScript, Elm, PureScript, CoffeeScript, ClojureScript, etc.
 
+### WebAssembly
+
+[WebAssembly](http://webassembly.org) or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web.
+
+**You Don't Need** Google Native Client
+
 ### Drop any frameworks
 
-Drop any frameworks (Angular, jQuery, React, Vue, Bootstrap, etc.) for their bad performance and maintainability, check out the [HNPWA](https://hnpwa.com) apps.
+Drop any frameworks for their bad performance and maintainability, check out the [HNPWA](https://hnpwa.com) apps.
 
 - [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 - [You might not need a CSS framework](https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/)
 - [JavaScript back to basics: You might not need React or Angular 2](https://react-etc.net/entry/javascript-back-to-basics-you-might-not-need-react-or-angular-2)
+
+**You Don't Need** Angular, jQuery, React, Vue, Bootstrap, Foundation, etc.
 
 ## 2. Web Components
 
