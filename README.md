@@ -61,7 +61,22 @@ Use [Workbox](https://developers.google.com/web/tools/workbox/) to simplify your
 
 This new level of quality allows Progressive Web Apps to earn a place on the user's **home screen**.
 
-[Introduction to Progressive Web App Architectures](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures-slides)
+- [Introduction to Progressive Web App Architectures](https://developers.google.com/web/ilt/pwa/introduction-to-progressive-web-app-architectures-slides)
+- [Support native integration](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/#support_native_integration)
+- [Progressive Web Apps (PWA) and Windows 10](https://forum.kirupa.com/t/progressive-web-apps-pwa-and-windows-10/637192)
+- [How to Save PWA to iOS Homescreen](https://vimeo.com/236430523)
+- [WHY You Should Build A Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
+
+| | Website | Progressive Web App | Mobile Application
+--- | --- | --- | ---
+Offline | NO | YES | YES
+App stores | NO | NO | YES
+Responsive | YES | YES | YES
+Searchable | YES | YES | NO
+Local Notifications | NO | YES | YES
+Push Messages | NO | YES | YES
+Download to install | NO | NO | YES
+Fast Updates | YES | YES | NO
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
