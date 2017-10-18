@@ -112,7 +112,7 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 | | Website | PWA | Native App
 --- | --- | --- | ---
 Offline | NO :heavy_minus_sign: | YES :+1: | YES :+1:
-App stores | NO :heavy_minus_sign: | NO :heavy_minus_sign: (1) | YES :+1:
+App stores | NO :heavy_minus_sign: | NO :heavy_minus_sign: (1)(2) | YES :+1:
 Responsive | YES :+1: | YES :+1: | YES :+1:
 Searchable | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Local Notifications | NO :heavy_minus_sign: | YES :+1: | YES :+1:
@@ -120,11 +120,14 @@ Push Messages | NO :heavy_minus_sign: | YES :+1: | YES :+1:
 Download to install | NO :+1: | NO :+1: | YES :heavy_minus_sign:
 Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
-Performance | NO :heavy_minus_sign: | YES :+1: (2) | YES :+1:
-Result | 0 | +8 :heart: | +2
+Performance | NO :heavy_minus_sign: | YES :+1: (3) | YES :+1:
+Lower dev time and cost | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Lower user acquisition cost | YES :+1: | YES :+1: | NO :heavy_minus_sign:
+Result | +2 | +10 :heart: | 0
 
-(1) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices.  
-(2) Performance using RAIL Performance Model, WebAssembly, Web Workers.
+(1) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices. :+1:  
+(2) Updates don’t have to run through an app store. :+1:  
+(3) Performance using RAIL Performance Model, WebAssembly, Web Workers.
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
