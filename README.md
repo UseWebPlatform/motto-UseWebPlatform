@@ -20,7 +20,7 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 
 ### HTML
 
-- [HTML <template> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [HTML \<template\> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [HTML templates, via JavaScript template literals](https://github.com/PolymerLabs/lit-html)
 
 **You Don't Need** HAML, Pug, etc.
