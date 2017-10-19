@@ -46,7 +46,7 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 
 [WebAssembly](http://webassembly.org) or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web.
 
-**You Don't Need** Google Native Client
+**You Don't Need** Google Native Client.
 
 ### Drop any frameworks
 
@@ -143,7 +143,7 @@ Lower user acquisition cost | YES :+1: | YES :+1: (4) | NO :heavy_minus_sign:
 
 When writing code for the Web with JavaScript, there are a great many [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) available.
 
-[Google Chrome Samples](https://www.chromestatus.com/samples)
+[Chrome Samples](https://www.chromestatus.com/samples)
 
 ## 8. PRPL Pattern
 
