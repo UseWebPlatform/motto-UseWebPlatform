@@ -208,7 +208,7 @@ Try [Polymer Playground](https://github.com/StartPolymer/playground) :eyes:
 
 ---
 
-> Do you like it? Please, star the motto :star:
+> Do you like it? Please, star the motto :star: [:top:](https://github.com/UseWebPlatform/motto-UseWebPlatform)
 
 ---
 
