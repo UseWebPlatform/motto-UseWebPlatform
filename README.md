@@ -34,6 +34,7 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
 - [JavaScript Performance](https://www.w3schools.com/js/js_performance.asp)
+- [ES8 was Released and here are its Main New Features](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 
 #### Static Types
 
