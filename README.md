@@ -21,13 +21,14 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 ### HTML
 
 - [HTML \<template\> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
+- [Polymer data binding helper elements](https://www.polymer-project.org/2.0/docs/devguide/templates)
 - [HTML templates, via JavaScript template literals](https://github.com/PolymerLabs/lit-html)
 
 **You Don't Need** HAML, Pug, etc.
 
 ### JavaScript
 
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB and Adobe Acrobat.
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB, Adobe Acrobat, Google Apps Script, Google BigQuery UDF, etc.
 
 - [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
