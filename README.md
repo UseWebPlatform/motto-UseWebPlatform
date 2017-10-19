@@ -110,6 +110,7 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 - [Progressive Web Apps (PWA) and Windows 10](https://forum.kirupa.com/t/progressive-web-apps-pwa-and-windows-10/637192)
 - [How to Save PWA to iOS Homescreen](https://vimeo.com/236430523)
 - [WHY You Should Build A Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
+- [Twitter Lite PWA Significantly Increases Engagement and Reduces Data Usage](https://developers.google.com/web/showcase/2017/twitter)
 
 | | Website | PWA | Native App
 --- | --- | --- | ---
