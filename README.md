@@ -6,7 +6,18 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-> Short link: [git.io/UseWebPlatform](https://git.io/UseWebPlatform)
+The primitives, patterns and Polymer library for reusable, performant and maintainable code:
+
+- [1. CSS, HTML, JavaScript, WebAssembly](#1-css-html-javascript-webassembly)
+- [2. Web Components](#2-web-components)
+- [3. HTTP/2 + Server Push + HTML Imports / ES6 Modules](#3-http2--server-push--html-imports--es6-modules)
+- [4. Service Workers, Web Workers](#4-service-workers-web-workers)
+- [5. Progressive Web Apps](#5-progressive-web-apps)
+- [6. Web Accessibility](#6-web-accessibility)
+- [7. Web APIs](#7-web-apis)
+- [8. PRPL Pattern](#8-prpl-pattern)
+- [9. RAIL Performance Model](#9-rail-performance-model)
+- [10. Polymer Project](#10-polymer-project)
 
 ## 1. CSS, HTML, JavaScript, WebAssembly
 
@@ -123,7 +134,7 @@ Responsive | YES :+1: | YES :+1: | YES :+1:
 Searchable | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Local Notifications | NO :heavy_minus_sign: | YES :+1: | YES :+1:
 Push Messages | NO :heavy_minus_sign: | YES :+1: | YES :+1:
-Download to install | NO :+1: | NO :+1: | YES :heavy_minus_sign:
+Install needed to run | NO :+1: | NO :+1: | YES :heavy_minus_sign:
 Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Performance | NO :heavy_minus_sign: | YES :+1: (4) | YES :+1:
@@ -213,6 +224,10 @@ Try [Polymer Playground](https://github.com/StartPolymer/playground) :eyes:
 ---
 
 > Do you like it? Please, star the motto :star: [:top:](#usewebplatform)
+
+---
+
+> Short link: [git.io/UseWebPlatform](https://git.io/UseWebPlatform)
 
 ---
 
