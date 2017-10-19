@@ -6,7 +6,7 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-The primitives, patterns and Polymer library for reusable, performant, maintainable code:
+The primitives, a patterns and Polymer library for reusable, performant, maintainable code:
 
 - [1. CSS, HTML, JavaScript, WebAssembly](#1-css-html-javascript-webassembly)
 - [2. Web Components](#2-web-components)
