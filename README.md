@@ -6,7 +6,7 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-> Short link: [git.io/usewebplatform](https://git.io/usewebplatform)
+> Short link: [git.io/UseWebPlatform](https://git.io/UseWebPlatform)
 
 ## 1. CSS, HTML, JavaScript, WebAssembly
 
