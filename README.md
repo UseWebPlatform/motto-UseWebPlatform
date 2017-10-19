@@ -113,11 +113,12 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 - [How to Save PWA to iOS Homescreen](https://vimeo.com/236430523)
 - [WHY You Should Build A Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
 - [Twitter Lite PWA Significantly Increases Engagement and Reduces Data Usage](https://developers.google.com/web/showcase/2017/twitter)
+- [A community-driven list of stats and news related to PWA](https://www.pwastats.com)
 
-| | Website | PWA | Native App
+| | Website | PWA (1) | Native App
 --- | --- | --- | ---
 Offline | NO :heavy_minus_sign: | YES :+1: | YES :+1:
-App stores | NO :heavy_minus_sign: | NO :heavy_minus_sign: (1)(2) | YES :+1:
+App stores | NO :heavy_minus_sign: | NO :heavy_minus_sign: (2)(3) | YES :+1:
 Responsive | YES :+1: | YES :+1: | YES :+1:
 Searchable | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Local Notifications | NO :heavy_minus_sign: | YES :+1: | YES :+1:
@@ -125,15 +126,16 @@ Push Messages | NO :heavy_minus_sign: | YES :+1: | YES :+1:
 Download to install | NO :+1: | NO :+1: | YES :heavy_minus_sign:
 Fast Updates | YES :+1: | YES :+1: | NO :heavy_minus_sign:
 Cross-platform | YES :+1: | YES :+1: | NO :heavy_minus_sign:
-Performance | NO :heavy_minus_sign: | YES :+1: (3) | YES :+1:
+Performance | NO :heavy_minus_sign: | YES :+1: (4) | YES :+1:
 Lower dev time and cost | YES :+1: | YES :+1: | NO :heavy_minus_sign:
-Lower user acquisition cost | YES :+1: | YES :+1: (4) | NO :heavy_minus_sign:
+Lower user acquisition cost | YES :+1: | YES :+1: (5) | NO :heavy_minus_sign:
 **Result** | +2 | +10 :heart: | 0
 
-(1) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices. :+1:  
-(2) Updates don’t have to run through an app store. :+1:  
-(3) Performance using RAIL Performance Model, WebAssembly, Web Workers.  
-(4) [Progressive Web Apps vs Native: Which Is Better for Your Business?](https://www.technology.org/2017/07/28/progressive-web-apps-vs-native-which-is-better-for-your-business/)
+(1) PWA on [Android Chrome from v59](https://developers.google.com/web/updates/2017/02/improved-add-to-home-screen), [Chromebook](https://youtu.be/m-sCdS0sQO8?t=16m12s), [Samsung Internet v5.4](https://medium.com/samsung-internet-dev/announcing-samsung-internet-v5-4-stable-fd941e0dcd58)  
+(2) Progressive Web Apps are coming soon to the Windows Store for Windows 10 Devices. :+1:  
+(3) Updates don’t have to run through an app store. :+1:  
+(4) Performance using RAIL Performance Model, WebAssembly, Web Workers.  
+(5) [Progressive Web Apps vs Native: Which Is Better for Your Business?](https://www.technology.org/2017/07/28/progressive-web-apps-vs-native-which-is-better-for-your-business/)
 
 **You Don't Need** Apache Cordova, PhoneGap, etc.
 
