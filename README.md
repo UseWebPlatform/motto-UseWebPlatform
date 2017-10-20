@@ -8,7 +8,7 @@ Use universal the [Web Platform](https://www.w3.org/standards/) primitives with 
 
 Use the primitives, a patterns and Polymer library for **reusable**, **performant**, **maintainable** code:
 
-- [1. CSS Variables, HTML templates, JavaScript, WebAssembly](#1-css-variables-html-templates-javascript-webassembly)
+- [1. CSS Variables, HTML Templates, JavaScript, WebAssembly](#1-css-variables-html-templates-javascript-webassembly)
 - [2. Web Components](#2-web-components)
 - [3. HTTP/2 + Server Push + HTML Imports / ES6 Modules](#3-http2--server-push--html-imports--es6-modules)
 - [4. Service Workers, Web Workers](#4-service-workers-web-workers)
@@ -19,7 +19,7 @@ Use the primitives, a patterns and Polymer library for **reusable**, **performan
 - [9. RAIL Performance Model](#9-rail-performance-model)
 - [10. Polymer Project](#10-polymer-project)
 
-## 1. CSS Variables, HTML templates, JavaScript, WebAssembly
+## 1. CSS Variables, HTML Templates, JavaScript, WebAssembly
 
 ### CSS Variables, CSS Mixins
 
@@ -31,7 +31,7 @@ Use the primitives, a patterns and Polymer library for **reusable**, **performan
 
 **You Don't Need** SASS, LESS, Stylus, etc.
 
-### HTML templates
+### HTML Templates
 
 - [HTML \<template\> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [Polymer data binding helper elements](https://www.polymer-project.org/2.0/docs/devguide/templates)
