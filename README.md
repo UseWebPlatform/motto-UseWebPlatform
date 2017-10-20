@@ -6,9 +6,9 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
-The primitives, a patterns and Polymer library for reusable, performant, maintainable code:
+Use the primitives, a patterns and Polymer library for **reusable**, **performant**, **maintainable** code:
 
-- [1. CSS, HTML, JavaScript, WebAssembly](#1-css-html-javascript-webassembly)
+- [1. CSS Variables, HTML templates, JavaScript, WebAssembly](#1-css-variables-html-templates-javascript-webassembly)
 - [2. Web Components](#2-web-components)
 - [3. HTTP/2 + Server Push + HTML Imports / ES6 Modules](#3-http2--server-push--html-imports--es6-modules)
 - [4. Service Workers, Web Workers](#4-service-workers-web-workers)
@@ -19,9 +19,9 @@ The primitives, a patterns and Polymer library for reusable, performant, maintai
 - [9. RAIL Performance Model](#9-rail-performance-model)
 - [10. Polymer Project](#10-polymer-project)
 
-## 1. CSS, HTML, JavaScript, WebAssembly
+## 1. CSS Variables, HTML templates, JavaScript, WebAssembly
 
-### CSS
+### CSS Variables, CSS Mixins
 
 - [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care)
 - [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables)
@@ -31,7 +31,7 @@ The primitives, a patterns and Polymer library for reusable, performant, maintai
 
 **You Don't Need** SASS, LESS, Stylus, etc.
 
-### HTML
+### HTML templates
 
 - [HTML \<template\> element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [Polymer data binding helper elements](https://www.polymer-project.org/2.0/docs/devguide/templates)
@@ -42,6 +42,8 @@ The primitives, a patterns and Polymer library for reusable, performant, maintai
 ### JavaScript
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB, Adobe Acrobat, Google Apps Script, Google BigQuery UDF, etc.
+
+Learn JavaScript properly:
 
 - [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
