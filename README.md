@@ -43,7 +43,7 @@ Use the primitives, a patterns and Polymer library for **reusable**, **performan
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB, Adobe Acrobat, Google Apps Script, Google BigQuery UDF, etc.
 
-#### Learn JavaScript properly:
+#### Learn JavaScript properly
 
 - [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
