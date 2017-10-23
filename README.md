@@ -86,6 +86,7 @@ Drop any frameworks for their bad performance and maintainability, check out the
 Web components are based on four main specifications:
 
 - **Custom Elements** lays the foundation for designing and using new types of DOM elements.
+  - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - **Shadow DOM** defines how to use encapsulated style and markup in web components.
 - **HTML Template** defines how to declare fragments of markup that go unused at page load, but can be instantiated later on at runtime.
 - **HTML imports** defines the inclusion and reuse of HTML documents in other HTML documents.
