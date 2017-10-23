@@ -212,6 +212,7 @@ Budget for TTI on mobile 3G networks is only ~ **50 KB** per route :exclamation:
 
 Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-project.org) is a JavaScript library that helps you create custom **reusable** HTML elements, and use them to build **performant**, **maintainable** apps.
 
+- [Projects using Polymer](https://github.com/abdonrd/PolymerProjects)
 - [Polymer library](https://www.polymer-project.org/2.0/docs/devguide/feature-overview)
 - [Polymer App Toolbox](https://www.polymer-project.org/2.0/toolbox/)
 - [Polymer CLI](https://www.polymer-project.org/2.0/docs/tools/polymer-cli)
