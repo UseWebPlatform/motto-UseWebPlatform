@@ -154,7 +154,7 @@ Lower user acquisition cost | YES :+1: | YES :+1: (5) | NO :heavy_minus_sign:
 (4) Performance using RAIL Performance Model, WebAssembly, Web Workers.  
 (5) [Progressive Web Apps vs Native: Which Is Better for Your Business?](https://www.technology.org/2017/07/28/progressive-web-apps-vs-native-which-is-better-for-your-business/)
 
-**You Don't Need** Apache Cordova, PhoneGap, etc.
+**You Don't Need** Apache Cordova, PhoneGap, Crosswalk, React Native, etc.
 
 ## 6. Web Accessibility
 
