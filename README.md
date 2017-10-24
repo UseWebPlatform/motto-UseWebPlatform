@@ -129,7 +129,8 @@ This new level of quality allows Progressive Web Apps to earn a place on the use
 - [WHY You Should Build A Progressive Web App NOW](https://www.youtube.com/watch?v=0LOk_OgUWGM)
 - [Twitter Lite PWA Significantly Increases Engagement and Reduces Data Usage](https://developers.google.com/web/showcase/2017/twitter)
 - [A community-driven list of stats and news related to PWA](https://www.pwastats.com)
-- [Integrating with Browsers and OS - Android Trusted Web Activity](https://www.youtube.com/watch?v=_sLa0qhuqcA)
+- [Integrating with Browsers and OS - Android Trusted Web Activity (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=_sLa0qhuqcA)
+- [Kickstarting Your Journey to Progressive Web Apps (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=goafiwzhKMI)
 
 | | Website | PWA (1) | Native App
 --- | --- | --- | ---
