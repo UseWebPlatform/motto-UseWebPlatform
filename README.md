@@ -4,9 +4,11 @@
 [![GitHub Watchers](https://img.shields.io/github/watchers/UseWebPlatform/motto-UseWebPlatform.svg?label=GitHub%20Watchers)](https://github.com/UseWebPlatform/motto-UseWebPlatform)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-Use universal the [Web Platform](https://www.w3.org/standards/) primitives with motto-in-hashtag-form #UseWebPlatform, extended motto [#UseThePlatform](https://www.polymer-project.org/about).
+Use universal the [Web Platform](https://www.w3.org/standards/) primitives, a patterns and Polymer Project for **reusable**, **performant**, **maintainable** code.
 
-Use the primitives, a patterns and Polymer library for **reusable**, **performant**, **maintainable** code:
+> Motto-in-hashtag-form #UseWebPlatform is extended motto [#UseThePlatform](https://www.polymer-project.org/about).
+
+The primitives and the patterns:
 
 - [1. CSS Variables, HTML Templates, JavaScript, WebAssembly](#1-css-variables-html-templates-javascript-webassembly)
 - [2. Web Components](#2-web-components)
