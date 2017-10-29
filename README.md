@@ -226,7 +226,7 @@ Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-proje
 
 We have a collection of [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer) resources.
 
-Try [Polymer Playground](https://github.com/StartPolymer/playground) :eyes:
+Try [Polymer Playgrounds](https://github.com/StartPolymer/polymer-playgrounds) :eyes:
 
 ---
 
