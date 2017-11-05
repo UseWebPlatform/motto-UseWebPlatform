@@ -6,7 +6,7 @@
 
 Use universal the [Web Platform](https://www.w3.org/standards/) primitives, a patterns and Polymer Project for **reusable**, **performant**, **maintainable** code.
 
-> Motto-in-hashtag-form #UseWebPlatform is extended motto [#UseThePlatform](https://www.polymer-project.org/blog/2016-05-26-IO-2016-Recap).
+> Motto-in-hashtag-form #UseWebPlatform is extended motto [#UseThePlatform](https://www.polymer-project.org/about).
 
 The primitives and the patterns:
 
