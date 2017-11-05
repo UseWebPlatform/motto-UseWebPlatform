@@ -53,6 +53,8 @@ The primitives and the patterns:
 - [JavaScript Performance](https://www.w3schools.com/js/js_performance.asp)
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - [ES8 was Released and here are its Main New Features](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
+- [What are the best websites to learn to code?](https://www.producthunt.com/ask/3452-what-are-the-best-websites-to-learn-to-code)
+- [Awesome Mobile Web Specialist](https://github.com/PolymerTemple/awesome-mobile-web-specialist)
 
 #### Static Types
 
