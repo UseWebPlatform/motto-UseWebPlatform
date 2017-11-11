@@ -186,7 +186,7 @@ When writing code for the Web with JavaScript, there are a great many [Web APIs]
 CSR (Client Side Rendering) with PRPL Pattern has similar performance as SSR (Server Side Rendering).  
 [JAMstack](https://jamstack.org) has similar architecture.
 
-**You Don't Need** SSR using PHP, React, Vue, etc.
+**You Don't Need** SSR using Django, PHP, React, Tomcat, Vue, etc.
 
 ### PRPL-50
 
