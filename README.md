@@ -92,6 +92,7 @@ Web components are based on four main specifications:
 - **Custom Elements** lays the foundation for designing and using new types of DOM elements.
   - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - **Shadow DOM** defines how to use encapsulated style and markup in web components.
+  - [Shadow DOM: fast and encapsulated styles](https://meowni.ca/posts/shadow-dom/)
 - **HTML Template** defines how to declare fragments of markup that go unused at page load, but can be instantiated later on at runtime.
 - **HTML imports** defines the inclusion and reuse of HTML documents in other HTML documents.
 
@@ -222,6 +223,7 @@ Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-proje
 
 - [Projects using Polymer](https://github.com/abdonrd/PolymerProjects)
 - [Polymer library](https://www.polymer-project.org/2.0/docs/devguide/feature-overview)
+- [Polymer Patterns](https://github.com/StartPolymer/awesome-polymer/blob/master/README.md#patterns)
 - [Polymer App Toolbox](https://www.polymer-project.org/2.0/toolbox/)
 - [Polymer CLI](https://www.polymer-project.org/2.0/docs/tools/polymer-cli)
 - [Polymer CLI Commands](https://www.polymer-project.org/2.0/docs/tools/polymer-cli-commands)
@@ -232,7 +234,7 @@ Unlock the Power of Web Components with ES6. [Polymer](https://www.polymer-proje
 
 We have a collection of [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer) resources.
 
-Try [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds) :eyes:
+Try [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 
 ---
 
