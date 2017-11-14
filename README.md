@@ -45,7 +45,7 @@ The primitives and the patterns:
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (JS) is a lightweight interpreted or JIT-compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js, Apache CouchDB, Adobe Acrobat, Google Apps Script, Google BigQuery UDF, etc.
 
-#### Learn JavaScript properly
+#### Learn JavaScript properly :exclamation:
 
 - [JavaScript Best Practices](https://www.w3schools.com/js/js_best_practices.asp)
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
@@ -55,6 +55,12 @@ The primitives and the patterns:
 - [ES8 was Released and here are its Main New Features](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 - [What are the best websites to learn to code?](https://www.producthunt.com/ask/3452-what-are-the-best-websites-to-learn-to-code)
 - [Awesome Mobile Web Specialist](https://github.com/PolymerTemple/awesome-mobile-web-specialist)
+
+##### JavaScript Courses
+
+- [freeCodeCamp](https://www.freecodecamp.org)
+- [Codewars JavaScript](https://www.codewars.com/?language=javascript)
+- [Modern JavaScript with Tyler McGinnis](https://www.youtube.com/playlist?list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z)
 
 #### Static Types
 
