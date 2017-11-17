@@ -51,9 +51,9 @@ The primitives and the patterns:
 - [JavaScript Common Mistakes](https://www.w3schools.com/js/js_mistakes.asp)
 - [JavaScript Use Strict](https://www.w3schools.com/js/js_strict.asp)
 - [JavaScript Performance](https://www.w3schools.com/js/js_performance.asp)
+- [JavaScript ES6](http://es6-features.org) - New features: overview & comparison.
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - [ES8 was Released and here are its Main New Features](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
-- [What are the best websites to learn to code?](https://www.producthunt.com/ask/3452-what-are-the-best-websites-to-learn-to-code)
 - [Awesome Mobile Web Specialist](https://github.com/PolymerTemple/awesome-mobile-web-specialist)
 
 ##### JavaScript Courses
@@ -61,6 +61,7 @@ The primitives and the patterns:
 - [freeCodeCamp](https://www.freecodecamp.org)
 - [Codewars JavaScript](https://www.codewars.com/?language=javascript)
 - [Modern JavaScript with Tyler McGinnis](https://www.youtube.com/playlist?list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z)
+- [What are the best websites to learn to code?](https://www.producthunt.com/ask/3452-what-are-the-best-websites-to-learn-to-code)
 
 #### Static Types
 
